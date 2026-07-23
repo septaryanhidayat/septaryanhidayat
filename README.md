@@ -1,8 +1,14 @@
 ### 📊 Statistik GitHub Saya
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=septaryanhidayat&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=septaryanhidayat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=septaryanhidayat&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=septaryanhidayat&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 🔥 **Streak Kontribusi:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=septaryanhidayat&theme=radial)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=septaryanhidayat&theme=tokyonight" alt="GitHub Streak" />
+</p>
